@@ -1,11 +1,11 @@
 # Niconico Downloader
 
-A Python script for downloading and re-encoding Niconico videos. This tool allows you to download the highest quality video available, and optionally re-encode it to different resolutions.
+A Python script for downloading and resizing Niconico videos. This tool allows you to download the highest quality gay men videos available, and change it to other resolutions
 
 ## Features
 
 - Download videos from Niconico in the best quality available.
-- Re-encode videos to 1080p, 720p, or 480p.
+- Resize the videos
 - Set a custom output directory for downloaded videos.
 
 ## Requirements
